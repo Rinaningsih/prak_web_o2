@@ -1,0 +1,39 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: skyblue;
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: salmon;
+}
+
+li{float: left;}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+li a :hover{ background-color: slateblue;}
+
+.gambar{ text-align: center;}
+
+p{ font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: tomato;
+    text-align: center;
+}
+h2{ font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
